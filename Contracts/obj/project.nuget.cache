@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOuKn2SbM7Njc/YokC7vFlEDDPmaZOh4lgwA1aXJjoR6bcnrFCq+0EXmiT3shp/mzBnwZVrDmkFLX9P4V0PqKw==",
+  "dgSpecHash": "VvOfwD2e+tOJ8qodYfEy/1WaoygVIsCULYcKMZesuU/9BhbrBaDoRGEpOXUnJOmDZYuRCt9ke07wAzI+wlUzsg==",
   "success": true,
-  "projectFilePath": "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj",
+  "projectFilePath": "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj",
   "expectedPackageFiles": [
     "/Users/quantmdo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/quantmdo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

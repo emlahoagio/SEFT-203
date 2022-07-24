@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T6GudiXWZQ3/PtUC50fmLRiB6GYWEoSISN0fCe7hZu0NeKrH48HdKIHlEE1lwgqiRXUqVbnkwPgMwnA/WQiS2Q==",
+  "dgSpecHash": "ZoYtN8hBhH3B7Ndyld+B6wIxtQHQtinZQNRzNfw78t1cpzQIH3vFoGKdmcG4+yOu9ti7M6N9CPCrJtSSPo6ekg==",
   "success": true,
-  "projectFilePath": "/Users/quantmdo/Projects/SEFT203/WebAPI/WebAPI.csproj",
+  "projectFilePath": "/Users/quantmdo/Projects/CSRHub/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
     "/Users/quantmdo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/quantmdo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

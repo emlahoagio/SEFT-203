@@ -1314,11 +1314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/quantmdo/Projects/SEFT203/Repo/Repo.csproj",
+      "projectUniqueName": "/Users/quantmdo/Projects/CSRHub/Repo/Repo.csproj",
       "projectName": "Repo",
-      "projectPath": "/Users/quantmdo/Projects/SEFT203/Repo/Repo.csproj",
+      "projectPath": "/Users/quantmdo/Projects/CSRHub/Repo/Repo.csproj",
       "packagesPath": "/Users/quantmdo/.nuget/packages/",
-      "outputPath": "/Users/quantmdo/Projects/SEFT203/Repo/obj/",
+      "outputPath": "/Users/quantmdo/Projects/CSRHub/Repo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/quantmdo/.nuget/NuGet/NuGet.Config"
@@ -1333,11 +1333,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj"
             },
-            "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj"
             }
           }
         }

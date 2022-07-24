@@ -1083,11 +1083,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/quantmdo/Projects/SEFT203/LoggerService/LoggerService.csproj",
+      "projectUniqueName": "/Users/quantmdo/Projects/CSRHub/LoggerService/LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "/Users/quantmdo/Projects/SEFT203/LoggerService/LoggerService.csproj",
+      "projectPath": "/Users/quantmdo/Projects/CSRHub/LoggerService/LoggerService.csproj",
       "packagesPath": "/Users/quantmdo/.nuget/packages/",
-      "outputPath": "/Users/quantmdo/Projects/SEFT203/LoggerService/obj/",
+      "outputPath": "/Users/quantmdo/Projects/CSRHub/LoggerService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/quantmdo/.nuget/NuGet/NuGet.Config"
@@ -1102,8 +1102,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj"
             }
           }
         }

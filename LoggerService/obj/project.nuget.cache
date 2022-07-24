@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfusBWHK00ZKSKKnEmA6G7KwLnLSNOVqMsMn3IQEyyQ2Nq+P9Bj24s/NxMbR7xmh+ZoNsLzgfHDx9tZx4TpsOQ==",
+  "dgSpecHash": "S4EFgdCtU08T80n+bO+VyxNHDBeyGTSfUQbtBuMSwueMq8QGA4kOiWF1APPKxnVNb24dVb7s75ErOPmYtXqr5Q==",
   "success": true,
-  "projectFilePath": "/Users/quantmdo/Projects/SEFT203/LoggerService/LoggerService.csproj",
+  "projectFilePath": "/Users/quantmdo/Projects/CSRHub/LoggerService/LoggerService.csproj",
   "expectedPackageFiles": [
     "/Users/quantmdo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/quantmdo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

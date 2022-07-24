@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "658xI5zykpYNTWKtGXU+fAsPb2mlKZFTv5ho6oIyXdZjII/I6Ock2twdd7gSe7bmJF6JR3R0IEPgofi8F897iA==",
+  "dgSpecHash": "VVV9R63T0O0fCglE0zoFGI1htmAPKzt/T8d2yvbNkTlfZmoqb89zc1gtUmQIQ3m4SHP99EOgrlMASVmDEP8oPA==",
   "success": true,
-  "projectFilePath": "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj",
+  "projectFilePath": "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj",
   "expectedPackageFiles": [
     "/Users/quantmdo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/quantmdo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

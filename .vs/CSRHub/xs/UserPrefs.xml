@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{5242E12B-87ED-49B1-BE7B-D53AA47407E0}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/appsettings.json">
+    <Files>
+      <File FileName="Contracts/IEmployeeRepo.cs" Line="8" Column="23" />
+      <File FileName="Repo/EmployeeRepo.cs" Line="11" Column="37" />
+      <File FileName="WebAPI/Program.cs" Line="14" Column="1" />
+      <File FileName="Entities/Configuration/RoleConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Entities/AutoMapper/MappingProfile.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/appsettings.json" Line="10" Column="99" />
+      <File FileName="WebAPI/Extensions/SeviceExtensions.cs" Line="35" Column="64" />
+      <File FileName="WebAPI/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="WebAPI/nlog.config" Line="12" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSRHub" expanded="True">
+            <Node name="LoggerService" expanded="True" />
+            <Node name="Repo" expanded="True" />
+            <Node name="WebAPI" expanded="True">
+              <Node name="NLog" expanded="True">
+                <Node name="logs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Cat.Height</Value>
+          <Value>Cat.Weight</Value>
+          <Value>Height</Value>
+          <Value>Weight</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

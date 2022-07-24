@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj": {}
+    "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj": {}
   },
   "projects": {
-    "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj": {
+    "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj",
+        "projectUniqueName": "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj",
+        "projectPath": "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj",
         "packagesPath": "/Users/quantmdo/.nuget/packages/",
-        "outputPath": "/Users/quantmdo/Projects/SEFT203/Entities/obj/",
+        "outputPath": "/Users/quantmdo/Projects/CSRHub/Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/quantmdo/.nuget/NuGet/NuGet.Config"

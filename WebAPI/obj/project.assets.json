@@ -9796,11 +9796,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/quantmdo/Projects/SEFT203/WebAPI/WebAPI.csproj",
+      "projectUniqueName": "/Users/quantmdo/Projects/CSRHub/WebAPI/WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "/Users/quantmdo/Projects/SEFT203/WebAPI/WebAPI.csproj",
+      "projectPath": "/Users/quantmdo/Projects/CSRHub/WebAPI/WebAPI.csproj",
       "packagesPath": "/Users/quantmdo/.nuget/packages/",
-      "outputPath": "/Users/quantmdo/Projects/SEFT203/WebAPI/obj/",
+      "outputPath": "/Users/quantmdo/Projects/CSRHub/WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/quantmdo/.nuget/NuGet/NuGet.Config"
@@ -9815,17 +9815,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Contracts/Contracts.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Contracts/Contracts.csproj"
             },
-            "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Entities/Entities.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Entities/Entities.csproj"
             },
-            "/Users/quantmdo/Projects/SEFT203/LoggerService/LoggerService.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/LoggerService/LoggerService.csproj"
+            "/Users/quantmdo/Projects/CSRHub/LoggerService/LoggerService.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/LoggerService/LoggerService.csproj"
             },
-            "/Users/quantmdo/Projects/SEFT203/Repo/Repo.csproj": {
-              "projectPath": "/Users/quantmdo/Projects/SEFT203/Repo/Repo.csproj"
+            "/Users/quantmdo/Projects/CSRHub/Repo/Repo.csproj": {
+              "projectPath": "/Users/quantmdo/Projects/CSRHub/Repo/Repo.csproj"
             }
           }
         }

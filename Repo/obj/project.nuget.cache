@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z32CcguBch+u7xFZc2rZmjVVN4YeoOu0+jcCU7HqHfhircat5RBH//X+yr1lANPrAoswMTSamqpdaBYTcnhagQ==",
+  "dgSpecHash": "oOybrKGRBIL3cStIdIFNk6wHbavaqCBe6pXexMHdhwhMS7DDx3DhjhiRXOXnJVKZI4x4yXkP2NGDq4l+G/da8A==",
   "success": true,
-  "projectFilePath": "/Users/quantmdo/Projects/SEFT203/Repo/Repo.csproj",
+  "projectFilePath": "/Users/quantmdo/Projects/CSRHub/Repo/Repo.csproj",
   "expectedPackageFiles": [
     "/Users/quantmdo/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/quantmdo/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
