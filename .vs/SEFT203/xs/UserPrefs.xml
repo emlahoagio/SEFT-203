@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{5242E12B-87ED-49B1-BE7B-D53AA47407E0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Extensions/SeviceExtensions.cs">
+    <Files>
+      <File FileName="Contracts/IEmployeeRepo.cs" Line="8" Column="23" />
+      <File FileName="Repo/EmployeeRepo.cs" Line="11" Column="37" />
+      <File FileName="WebAPI/Program.cs" Line="14" Column="1" />
+      <File FileName="Entities/Configuration/RoleConfiguration.cs" Line="1" Column="1" />
+      <File FileName="Entities/AutoMapper/MappingProfile.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/appsettings.json" Line="10" Column="98" />
+      <File FileName="WebAPI/Extensions/SeviceExtensions.cs" Line="35" Column="64" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SEFT203" expanded="True">
+            <Node name="Contracts" expanded="True" />
+            <Node name="Entities" expanded="True">
+              <Node name="AutoMapper" expanded="True" />
+              <Node name="RequestFeatures" expanded="True" />
+            </Node>
+            <Node name="Repo" expanded="True" />
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Extensions" expanded="True">
+                <Node name="SeviceExtensions.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Cat.Height</Value>
+          <Value>Cat.Weight</Value>
+          <Value>Height</Value>
+          <Value>Weight</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Chrome.app" />
+</Properties>

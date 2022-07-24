@@ -1,0 +1,16 @@
+2022-07-05 11:03:21.5237 ERROR Something went wrong in the GetCompanies action AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+List`1 -> IEnumerable`1
+System.Collections.Generic.List`1[[Entities.Models.Company, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> System.Collections.Generic.IEnumerable`1[[Entities.DataTransferObjects.CompanyDto, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Company -> CompanyDto
+Entities.Models.Company -> Entities.DataTransferObjects.CompanyDto
+   at lambda_method29(Closure , Company , CompanyDto , ResolutionContext )
+   at lambda_method28(Closure , Object , IEnumerable`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method28(Closure , Object , IEnumerable`1 , ResolutionContext )
+   at WebAPI.Controllers.CompaniesController.GetCompanies() in /Users/quantmdo/Projects/SEFT203/WebAPI/Controllers/CompaniesController.cs:line 29
+2022-07-05 15:00:37.3317 INFO Employee with id: 80abbca8-664d-4b20-b5de-024705497d4b doesn't exist in the database.

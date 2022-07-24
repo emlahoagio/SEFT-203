@@ -1,0 +1,17 @@
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/LoggerService.deps.json
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/LoggerService.dll
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/LoggerService.pdb
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/Contracts.dll
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/Entities.dll
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/Contracts.pdb
+/Users/quantmdo/Projects/SEFT203/LoggerService/bin/Debug/net6.0/Entities.pdb
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfoInputs.cache
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.AssemblyInfo.cs
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CoreCompileInputs.cache
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.csproj.CopyComplete
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.dll
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/refint/LoggerService.dll
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/LoggerService.pdb
+/Users/quantmdo/Projects/SEFT203/LoggerService/obj/Debug/net6.0/ref/LoggerService.dll

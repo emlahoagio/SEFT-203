@@ -1,0 +1,17 @@
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Repo.deps.json
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Repo.dll
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Repo.pdb
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Contracts.dll
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Entities.dll
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Contracts.pdb
+/Users/quantmdo/Projects/SEFT203/Repo/bin/Debug/net6.0/Entities.pdb
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.csproj.AssemblyReference.cache
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.AssemblyInfoInputs.cache
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.AssemblyInfo.cs
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.csproj.CoreCompileInputs.cache
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.csproj.CopyComplete
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.dll
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/refint/Repo.dll
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/Repo.pdb
+/Users/quantmdo/Projects/SEFT203/Repo/obj/Debug/net6.0/ref/Repo.dll

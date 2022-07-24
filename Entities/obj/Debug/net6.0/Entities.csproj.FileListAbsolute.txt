@@ -1,0 +1,14 @@
+/Users/quantmdo/Projects/SEFT203/Entities/bin/Debug/net6.0/Entities.deps.json
+/Users/quantmdo/Projects/SEFT203/Entities/bin/Debug/net6.0/Entities.runtimeconfig.json
+/Users/quantmdo/Projects/SEFT203/Entities/bin/Debug/net6.0/Entities.dll
+/Users/quantmdo/Projects/SEFT203/Entities/bin/Debug/net6.0/Entities.pdb
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.csproj.AssemblyReference.cache
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.AssemblyInfoInputs.cache
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.AssemblyInfo.cs
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.csproj.CoreCompileInputs.cache
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.dll
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/refint/Entities.dll
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.pdb
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/Entities.genruntimeconfig.cache
+/Users/quantmdo/Projects/SEFT203/Entities/obj/Debug/net6.0/ref/Entities.dll

@@ -1,0 +1,8 @@
+2022-07-06 11:33:01.9573 INFO Employee with id: 9ef53ad1-a146-441a-9538-bf88717c2bcd doesn't exist in the database.
+2022-07-06 15:43:03.4618 ERROR Invalid model state for the EmployeeForCreationDto object.
+2022-07-06 15:50:07.2551 ERROR EmployeeForCreationDto object sent from client is null.
+2022-07-06 15:50:19.0250 ERROR Invalid model state for the EmployeeForCreationDto object.
+2022-07-06 16:03:36.4834 ERROR Invalid model state for the EmployeeForCreationDto object.
+2022-07-06 16:14:57.9754 ERROR Invalid model state for the EmployeeForCreationDto object.
+2022-07-06 16:19:40.1056 ERROR Invalid model state for the EmployeeForCreationDto object.
+2022-07-06 16:20:36.7931 ERROR Invalid model state for the EmployeeForUpdateDto object
